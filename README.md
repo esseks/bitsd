@@ -126,7 +126,7 @@ Some JS scripts are libraries licensed under the terms specified in the respecti
 files, the other JS scripts and the CSS files had been coded by
 [thypon](https://github.com/thypon) for the legacy BITS project.
 
-Appeareance
+Appearance
 -----------
 
 The style of html pages has been imported from the previous versions.
